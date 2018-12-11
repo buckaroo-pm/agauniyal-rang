@@ -1,0 +1,6 @@
+targets = [ "//:rang" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/onqtam-doctest"
+version = "branch=master"
+private = true

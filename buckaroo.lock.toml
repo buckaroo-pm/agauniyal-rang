@@ -1,0 +1,9 @@
+manifest = "defda5ad05aef554e0f26a6830bcb87a0c0e25d90393db4a6167414f9c412f8b"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/onqtam-doctest"
+target = "//:doctest"
+
+[lock."github.com/buckaroo-pm/onqtam-doctest"]
+version = "branch=master"
+revision = "d7756fc7f51408dd0f4fa423a1f1d4aa8ace0656"

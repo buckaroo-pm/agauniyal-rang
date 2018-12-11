@@ -29,3 +29,14 @@
 
 build/
 .vscode/
+
+outoutoutout.txt
+
+# Buck
+.buckconfig.local
+.buckconfig.d
+.buckd
+buck-out
+buckaroo
+buckaroo-linux
+buckaroo_macros.bzl
