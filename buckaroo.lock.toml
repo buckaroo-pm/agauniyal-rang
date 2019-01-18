@@ -5,5 +5,5 @@ package = "github.com/buckaroo-pm/onqtam-doctest"
 target = "//:doctest"
 
 [lock."github.com/buckaroo-pm/onqtam-doctest"]
-version = "branch=master"
+versions = [ "branch=master" ]
 revision = "d7756fc7f51408dd0f4fa423a1f1d4aa8ace0656"
